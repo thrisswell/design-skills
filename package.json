@@ -1,0 +1,37 @@
+{
+  "name": "design-skills",
+  "version": "1.0.0",
+  "description": "Curated design, UI, and UX skills for Claude and AI coding agents",
+  "main": "index.js",
+  "bin": {
+    "design-skills": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thrisswell/design-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thrisswell/design-skills/issues"
+  },
+  "homepage": "https://github.com/thrisswell/design-skills#readme",
+  "keywords": [
+    "claude",
+    "ai-skills",
+    "agentic-coding",
+    "claude-code",
+    "antigravity",
+    "design-skills",
+    "ui-ux",
+    "design-systems",
+    "developer-tools"
+  ],
+  "files": [
+    "bin/",
+    "improve-ui-ux/",
+    "README.md",
+    "license.txt"
+  ],
+  "author": "Sandeep Tripathy",
+  "license": "MIT",
+  "preferGlobal": true
+}
